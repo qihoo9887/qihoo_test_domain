@@ -1,1 +1,1 @@
-"# qihoo_test_domain" 
+qihoo_test_domain
